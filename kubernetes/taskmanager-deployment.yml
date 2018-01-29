@@ -26,4 +26,4 @@ spec:
         - name: JOB_MANAGER_RPC_ADDRESS
           value: flink-jobmanager
       - name: http-service
-	image:
+        image: dawidwys/fake-http:latest
